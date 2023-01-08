@@ -187,6 +187,8 @@ button {
     .faq {
         align-items: flex-start;
         padding-left: 1.5em;
+        padding-top: 3em;
+        padding-bottom: 3em;
     }
 
     .information > div > div {
